@@ -1,0 +1,9 @@
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase7/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
